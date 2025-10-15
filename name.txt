@@ -1,10 +1,10 @@
 Names should be updated. All fruits names put below:
 
 enum Fruits {
-      APPLE = 5LB,
-      GRAPES= 2LB,
-      ORANGES = 3LB,
-      CHERRY = 1LB
+      APPLE = 5,
+      GRAPES= 2,
+      ORANGES = 3,
+      CHERRY = 1
 }
 
 console.log(Fruits.APPLE);
