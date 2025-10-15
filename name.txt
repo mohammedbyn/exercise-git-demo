@@ -1,3 +1,10 @@
-Ashraf Bhuiyan
-Zeeshan Bhuiyan
-Cathy 
+Names should be updated. All fruits names put below:
+
+enum Fruits {
+      APPLE = 5LB,
+      GRAPES= 2LB,
+      ORANGES = 3LB,
+      CHERRY = 1LB
+}
+
+console.log(Fruits.APPLE);
